@@ -92,7 +92,7 @@
                     android:id="@+id/mShare"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_weight="0.58"
+                    android:layout_weight="1.40"
                     android:background="@color/cardview_light_background"
 
                     app:srcCompat="@drawable/share" />
@@ -101,7 +101,7 @@
                     android:id="@+id/imageButton6"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_weight="1.00"
+                    android:layout_weight="1.09"
                     android:background="@color/cardview_light_background"
                     app:srcCompat="@drawable/pin" />
 
